@@ -1,0 +1,11 @@
+/*
+  Variables for color palette
+*/
+
+:root {
+  --accent-white: #FFF5E1;
+  --accent-brown: #4D302F;
+  --soft-brown: #724847;
+  --beige-bg: #FFF2DC;
+  --soft-pink: #FFD9D9;
+}
