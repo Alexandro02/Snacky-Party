@@ -1,0 +1,53 @@
+/* Adding custom fonts. */
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Exo+2:ital,wght@0,100..900;1,100..900&display=swap");
+
+@import url("./global.css");
+
+.h1,
+.h2 {
+  font-weight: bold;
+}
+
+.h1 {
+  font-family: "Dancing Script";
+}
+
+.h2 {
+  font-family: "Exo 2";
+}
+
+.f-36 {
+  font-size: 2.25rem;
+}
+
+.f-32 {
+  font-size: 2rem;
+}
+
+.f-25 {
+  font-size: 1.563rem;
+}
+
+.f-23 {
+  font-size: 1.438rem;
+}
+
+.f-20 {
+  font-size: 1.25rem;
+}
+
+.f-18 {
+  font-size: 1.125rem;
+}
+
+.f-16 {
+  font-size: 1rem;
+}
+
+.f-14 {
+  font-size: 0.875rem;
+}
+
+.f-12 {
+  font-size: 0.75rem;
+}
