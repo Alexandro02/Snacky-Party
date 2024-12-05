@@ -3,16 +3,11 @@
 
 @import url("./global.css");
 
-.h1,
-.h2 {
-  font-weight: bold;
-}
-
-.h1 {
+.dancing-s {
   font-family: "Dancing Script";
 }
 
-.h2 {
+.exo-2 {
   font-family: "Exo 2";
 }
 
