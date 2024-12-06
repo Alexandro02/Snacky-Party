@@ -1,5 +1,14 @@
 @import url("./colors.css");
 
+body {
+  overflow: hidden;
+  overflow-y: scroll;
+}
+
+body::-webkit-scrollbar {
+  display: none;
+}
+
 video,
 .ocasions,
 .services,
